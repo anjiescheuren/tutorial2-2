@@ -1,0 +1,43 @@
+{
+    "author": "Pebble",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial-2-2",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Tutorial-2-2",
+        "enableMultiJS": false,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/background.png",
+                    "name": "IMAGE_BACKGROUND",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/perfect-dos-vga.ttf",
+                    "name": "FONT_PERFECT_DOS_20",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "compatibility": "2.7",
+                    "file": "fonts/perfect-dos-vga.ttf",
+                    "name": "FONT_PERFECT_DOS_48",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "630be549-bd5f-45d2-8d19-51fee1c8d69f",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
